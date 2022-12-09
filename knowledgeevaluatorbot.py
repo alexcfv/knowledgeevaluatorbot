@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.model_selection import GridSearchCV
 from sklearn.linear_model import ElasticNet
 
-bot = telebot.TeleBot('5945373116:AAHaX-UpXxC0FcC02SNik5JUL4hbfAYCLPY')
+bot = telebot.TeleBot('token')
 # сам бот https://t.me/knowledgeevaluatorbot
 
 #сами данные
