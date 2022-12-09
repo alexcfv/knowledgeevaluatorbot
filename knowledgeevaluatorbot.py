@@ -7,7 +7,6 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.linear_model import ElasticNet
 
 bot = telebot.TeleBot('token')
-# сам бот https://t.me/knowledgeevaluatorbot
 
 #сами данные
 df = pd.read_excel(r'C:\Users\krams\Desktop\project\данные_на_обучение.xlsx')
